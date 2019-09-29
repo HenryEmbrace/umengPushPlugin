@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-umengPush",
+  "version": "1.0.1",
+  "description": "iOS plugin for umengpush ionic ",
+  "cordova": {
+    "id": "cordova-plugin-umengPush",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryEmbrace/umengPushPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "ZlHy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryEmbrace/umengPushPlugin/issues"
+  },
+  "homepage": "https://github.com/HenryEmbrace/umengPushPlugin#readme"
+}
